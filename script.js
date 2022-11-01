@@ -50,6 +50,3 @@ const seeJPMovies = function([{one, two, three}, {four, five, six}]){
     console.log(six);
 }
 seeJPMovies(jurassicParkMovies);
-
-
-// When finished, create a repository in the “SpreadDestructFuncExercise” Folder as well as on GitHub. Add and commit everything in the SpreadDestructFuncExercise folder and push it up to your GitHub repository. Then paste the link to your GitHub repository page in the form in google classroom.
